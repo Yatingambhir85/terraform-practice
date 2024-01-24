@@ -1,0 +1,8 @@
+<!doctype html>
+<head></head>
+<title> Demo Website </title>
+<body>
+Hello Buddy!! I used Terraform to create S3 Bucket and host a static website.
+<h4> Created by Yatin Gambhir </h4>
+</body>
+</html>
